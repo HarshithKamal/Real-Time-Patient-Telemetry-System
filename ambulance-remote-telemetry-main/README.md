@@ -194,7 +194,7 @@ ambulance-remote-telemetry/
 
 Developed for the course **21ECC301P – Microprocessor, Microcontroller and Interfacing Techniques** (SRM Institute of Science and Technology):
 
-* **Lenin Valentine C J** ([linkedin](https://www.linkedin.com/in/leninvalentine) | [github](https://github.com/LeninValentine06))
+* **Lenin Valentine C J**
 * **Arshad Ahmed B**
 * **Harshith Kamal R**
 
